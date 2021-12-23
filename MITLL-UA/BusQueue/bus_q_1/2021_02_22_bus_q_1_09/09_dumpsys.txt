@@ -1,0 +1,29 @@
+Part of the MITLL-UA data series included with Exposure Visualization Tool
+
+This file has been reduced to contain only the relevant data for the software
+
+
+
+    Flags:
+      rssi_offset = 2
+      tx_calibration_power = -29
+      calibration_confidence = 3
+    Advertisement records:
+      2021-02-22T10:14:42-05	RPI=135449DE372C72AAB6AD9599AFB36C50	TEK=#0	intervalNum=2690011 (2021-02-22T10:10:00-05)	metadata=5CE30000 (ver=92, txPower=-29)	encryptedMeta=A69A1DF6
+      2021-02-22T10:50:37-05	RPI=AB294ED06C36C6BD93206381B98CCA3C	TEK=#0	intervalNum=2690015 (2021-02-22T10:50:00-05)	metadata=5CE30000 (ver=92, txPower=-29)	encryptedMeta=C93BCB6F
+    Sighting records:
+      RPI=725D660122061BF8CB299FD766631BA4	encryptedMetadata=A3900036
+        2021-02-22T10:14:41-05 (4s) rssi=[-75, -73, -73, -74, -75, -71, -72, -74, -72, -76, -81, -80, -80]
+        2021-02-22T10:17:54-05 (4s) rssi=[-70, -70, -70, -70, -70, -65, -65, -65, -65, -70, -69, -68, -68]
+        2021-02-22T10:22:28-05 (4s) rssi=[-71, -72, -71, -71, -71, -66, -66, -66, -66, -65, -69, -68, -67, -69, -67]
+      RPI=5EE80A629A96E9D5CB42C33B222365EC	encryptedMetadata=C52F77AA
+        2021-02-22T10:17:56-05 (1s) rssi=[-92, -92, -92, -91]
+      RPI=859F165E0A0E241E196975651164DDF1	encryptedMetadata=24EAE9CE
+        2021-02-22T10:17:56-05 (2s) rssi=[-88, -88, -84, -85, -84, -85]
+        2021-02-22T10:22:30-05 (2s) rssi=[-87, -87, -85, -85, -85, -85, -85]
+      RPI=3978E6639B8B015A1FCFA1D16D5990CE	encryptedMetadata=616B05C6
+        2021-02-22T10:22:28-05 (1s) rssi=[-94, -96, -96, -95, -97]
+      RPI=6EF672578E215AF2851DDCFBA5DE9C18	encryptedMetadata=C439E2DB
+        2021-02-22T10:22:29-05 (3s) rssi=[-86, -86, -87, -87, -89, -89, -90, -90]
+      RPI=909B8BAABE21B4DDD527F50D8391588F	encryptedMetadata=6E6A8A3D
+        2021-02-22T10:22:30-05 (2s) rssi=[-92, -93, -91, -92, -92, -92, -94]

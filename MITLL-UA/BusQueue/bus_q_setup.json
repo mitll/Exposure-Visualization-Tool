@@ -1,0 +1,92 @@
+{
+	"title": "Bus Queue",
+	"layout": "horizontal",
+	"axes": ["-x","y"],
+	"thresholds": [50, 60, 70],
+
+	"agents": [
+		{
+			"id": "A",
+			"positions": [[0,0,0]],
+			"orientations": [0],
+			"transition_mins": [0],
+			"phone_situation": "LFSP"
+		},
+		{
+			"id": "B",
+			"positions": [[4,0,0]],
+			"orientations": [0],
+			"transition_mins": [0],
+			"phone_situation": "LFSP"
+		},
+		{
+			"id": "C",
+			"positions": [[], [8,0,0], []],
+			"orientations": [0, 0, 0],
+			"transition_mins": [0, 5, 15],
+			"phone_situation": "LFSP"
+		},
+		{
+			"id": "D",
+			"positions": [[], [12,0,0], [8,0,0]],
+			"orientations": [0, 0, 0],
+			"transition_mins": [0, 5, 15],
+			"phone_situation": "LFSP"
+		},
+		{
+			"id": "E",
+			"positions": [[], [16,0,0], [12,0,0]],
+			"orientations": [0, 0, 0],
+			"transition_mins": [0, 10, 15],
+			"phone_situation": "LFSP"
+		},
+		{
+			"id": "F",
+			"positions": [[], [20,0,0], [16,0,0]],
+			"orientations":[0, 0, 0],
+			"transition_mins": [0, 10, 15],
+			"phone_situation": "LFSP"
+		}
+	
+	],
+
+	"phones": [
+		{
+            "id": "07",
+            "model": "Galaxy S7 SM-G930V",
+            "calconf": "3",
+            "time_offset": 0
+        },
+		{
+            "id": "09",
+            "model": "Google Pixel 3a",
+            "calconf": "3",
+            "time_offset": 0
+        },
+		{
+            "id": "12",
+            "model": "Moto e6 XT2005-5",
+            "calconf": "1",
+            "time_offset": 0
+        },
+		{
+            "id": "13",
+            "model": "Moto g7 XT1962-1",
+            "calconf": "3",
+            "time_offset": 0
+        },
+		{
+            "id": "15",
+            "model": "Google Pixel 2",
+            "calconf": "1",
+            "time_offset": 0
+        },
+		{
+            "id": "20",
+            "model": "iPhone XR",
+            "calconf": "i",
+            "time_offset": 0,
+			"tx": 0
+        }
+	]
+}

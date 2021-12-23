@@ -1,0 +1,37 @@
+{
+    "testId": "bus_q_2", 
+    "startTime": "2021-02-22T11:39:00-0500", 
+    "stopTime": "2021-02-22T12:10:00-0500", 
+    "details": [
+        {
+            "agent": "A", 
+            "phone": "07",  
+            "exposure": "high" 
+        }, 
+        {
+            "agent": "B", 
+            "phone": "20", 
+            "exposure": "sick" 
+        }, 
+        {
+            "agent": "C", 
+            "phone": "09", 
+            "exposure": "low" 
+        }, 
+        {
+            "agent": "D", 
+            "phone": "12", 
+            "exposure": "low" 
+        }, 
+        {
+            "agent": "E", 
+            "phone": "13", 
+            "exposure": "low" 
+        }, 
+        {
+            "agent": "F", 
+            "phone": "15", 
+            "exposure": "low" 
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+Part of the MITLL-UA data series included with Exposure Visualization Tool
+
+This file has been reduced to contain only the relevant data for the software
+
+
+
+    Flags:
+      rssi_offset = 8
+      tx_calibration_power = -24
+      calibration_confidence = 1
+    Advertisement records:
+      2021-03-01T09:24:28-05	RPI=0F7CFF0B977DC86027DF700E01236C65	TEK=#0	intervalNum=2691014 (2021-03-01T09:20:00-05)	metadata=54E80000 (ver=84, txPower=-24)	encryptedMeta=773E162D
+      2021-03-01T09:35:51-05	RPI=0DF9840935C681EFC7D510F229EE9258	TEK=#0	intervalNum=2691015 (2021-03-01T09:30:00-05)	metadata=54E80000 (ver=84, txPower=-24)	encryptedMeta=93ADA049
+      2021-03-01T09:47:21-05	RPI=3474513BD75E8D2E92BA30E150470238	TEK=#0	intervalNum=2691016 (2021-03-01T09:40:00-05)	metadata=54E80000 (ver=84, txPower=-24)	encryptedMeta=EA1CFD2D
+      2021-03-01T10:06:43-05	RPI=DAE735B22F478FBE43054FD91668C34A	TEK=#0	intervalNum=2691018 (2021-03-01T10:00:00-05)	metadata=54E80000 (ver=84, txPower=-24)	encryptedMeta=151627DE
+    Sighting records:
+      RPI=350BA1C6BA9AE93D3903C8DA81A79048	encryptedMetadata=E9799FE0
+        2021-03-01T09:29:01-05 (0s) rssi=[-61, -61]
+        2021-03-01T09:32:59-05 (1s) rssi=[-61, -61, -55, -55]
+      RPI=CC9C63A6DAA386D9C904B2A1F579941A	encryptedMetadata=DE403892
+        2021-03-01T09:29:01-05 (0s) rssi=[-64, -64]
+        2021-03-01T09:33:00-05 (0s) rssi=[-64, -63, -63]
+        2021-03-01T09:37:09-05 (1s) rssi=[-64, -64, -65]
+      RPI=E37E98B6B66B50ECB65C85F983BE6CC8	encryptedMetadata=6F159C64
+        2021-03-01T09:29:01-05 (0s) rssi=[-89]
+        2021-03-01T09:33:00-05 (0s) rssi=[-79, -80]
+        2021-03-01T09:37:10-05 (0s) rssi=[-80, -80]
+      RPI=79ED9A5BCECAEA4280107AC56A581110	encryptedMetadata=B926C3FB
+        2021-03-01T09:32:59-05 (1s) rssi=[-91, -85]
+        2021-03-01T09:37:09-05 (0s) rssi=[-88]
+      RPI=32420E7AE4F8207BA872503EA4A73C11	encryptedMetadata=F66F91FE
+        2021-03-01T09:33:00-05 (0s) rssi=[-92]
+      RPI=4A0F135376C907FFF78FE38B07E2BBC9	encryptedMetadata=59D933F7
+        2021-03-01T09:33:00-05 (0s) rssi=[-87, -87]
+        2021-03-01T09:37:10-05 (0s) rssi=[-92]
+      RPI=54FC67066C39CBE09E85F8CBA5208991	encryptedMetadata=278D7325
+        2021-03-01T09:33:00-05 (0s) rssi=[-76, -75]
+      RPI=ED99C8C0962105EE89ADCC8664A7A8FE	encryptedMetadata=6514C7B2
+        2021-03-01T09:33:00-05 (0s) rssi=[-84, -84]
+        2021-03-01T09:37:10-05 (0s) rssi=[-85, -84]
+      RPI=1FE252E4FF2C28DEF2222142706BF06D	encryptedMetadata=76E5A584
+        2021-03-01T09:37:10-05 (0s) rssi=[-89, -86, -89]
+        2021-03-01T09:42:10-05 (0s) rssi=[-88]
+      RPI=315902A344CCC6914F2C412DBF2D4D52	encryptedMetadata=8A890D0E
+        2021-03-01T09:37:10-05 (0s) rssi=[-87, -87]
+        2021-03-01T09:46:50-05 (0s) rssi=[-88]
+      RPI=4C53BA5018A9E7AF4DFC4E51F7DBA812	encryptedMetadata=28CB566A
+        2021-03-01T09:37:10-05 (0s) rssi=[-76, -76]
+        2021-03-01T09:42:10-05 (0s) rssi=[-77]
+      RPI=92E7115329440A869C04953F24DB429C	encryptedMetadata=06200842
+        2021-03-01T09:37:10-05 (0s) rssi=[-80, -80, -78]
+        2021-03-01T09:42:10-05 (0s) rssi=[-79]
+        2021-03-01T09:46:46-05 (4s) rssi=[-85, -83, -85]
+      RPI=AD8BAC1A41CB595D4922F61135666920	encryptedMetadata=5B762EB4
+        2021-03-01T09:37:10-05 (0s) rssi=[-63, -56, -55]
+        2021-03-01T09:42:10-05 (0s) rssi=[-57]
+        2021-03-01T09:46:46-05 (4s) rssi=[-62, -62, -57]
+        2021-03-01T09:51:40-05 (1s) rssi=[-59, -68]
+        2021-03-01T09:56:25-05 (0s) rssi=[-61, -56]
+      RPI=3513EACEE98CAD22B38E2898A3260F3E	encryptedMetadata=F5F92745
+        2021-03-01T09:42:10-05 (0s) rssi=[-79, -80]
+        2021-03-01T09:46:46-05 (4s) rssi=[-85, -86, -77]
+      RPI=5586C29CF4998F3EF5192B20D141ED56	encryptedMetadata=AEB8F415
+        2021-03-01T09:42:10-05 (0s) rssi=[-85, -86]
+        2021-03-01T09:46:50-05 (0s) rssi=[-84]
+      RPI=B481212C3D413978ABA0211C121DDE18	encryptedMetadata=A8278046
+        2021-03-01T09:42:10-05 (0s) rssi=[-84, -83]
+      RPI=C8EEE57D588DA7211D74767B4945F929	encryptedMetadata=C86CC7FF
+        2021-03-01T09:42:10-05 (0s) rssi=[-84]
+        2021-03-01T09:46:50-05 (0s) rssi=[-84]
+      RPI=CE691AACA44BABA36E7D7A8F830A2DB9	encryptedMetadata=1F0699B9
+        2021-03-01T09:42:10-05 (0s) rssi=[-89]
+        2021-03-01T09:46:50-05 (0s) rssi=[-88]
+      RPI=F8C28322064CB81E23E3D138CDA7C5A9	encryptedMetadata=041DBFB2
+        2021-03-01T09:42:10-05 (0s) rssi=[-66, -66, -66]
+        2021-03-01T09:46:46-05 (4s) rssi=[-65, -64, -66]
+        2021-03-01T09:51:41-05 (0s) rssi=[-62, -61]
+        2021-03-01T09:56:25-05 (0s) rssi=[-63]
+      RPI=8B6BD9F4E2DA09E2984DCCD6F28E96C3	encryptedMetadata=46CC8C35
+        2021-03-01T09:46:46-05 (4s) rssi=[-83, -83, -84]
+        2021-03-01T09:56:25-05 (0s) rssi=[-86]
+      RPI=EDDC5B7F63588FD1FC359DE49AB0F19D	encryptedMetadata=1999C473
+        2021-03-01T09:46:47-05 (0s) rssi=[-87]
+      RPI=290E60BF6CAE6B0046CCEA79F2B24F63	encryptedMetadata=5259623E
+        2021-03-01T09:51:41-05 (0s) rssi=[-90]
+      RPI=B8BE1EED70D253B13F22E09E966431BD	encryptedMetadata=6DD34AF3
+        2021-03-01T09:51:41-05 (0s) rssi=[-66]
+      RPI=02EED4094818F7EB617CB04926A56501	encryptedMetadata=078B352F
+        2021-03-01T09:56:25-05 (0s) rssi=[-84, -83]
+      RPI=DEEC56BEB8F36AE3F4ED80B21F76F3F4	encryptedMetadata=B2699567
+        2021-03-01T09:56:25-05 (0s) rssi=[-89, -88]
+      RPI=E40470161BF4864E408E59F7FAF2E98D	encryptedMetadata=1FADFD4B
+        2021-03-01T09:56:25-05 (0s) rssi=[-74, -74, -74]
+      RPI=F8764D5E74C7DB258717D1BFF8D7CD79	encryptedMetadata=84DC23CB
+        2021-03-01T09:56:25-05 (0s) rssi=[-80, -79]

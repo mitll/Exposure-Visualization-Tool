@@ -1,0 +1,13 @@
+Part of the MITLL-UA data series included with Exposure Visualization Tool
+
+This file has been reduced to contain only the relevant data for the software
+
+
+
+    Advertisement records:
+      2021-02-25T11:30:00-0500  RPI=2497F5A92833F5E63B61B2A5480A1958  TEK=#0  intervalNum=2690451 (2021-02-25T11:30:00-0500) metadata=fake (ver=0, txPower=0) encryptedMeta=F75FA947
+      2021-02-25T11:40:00-0500  RPI=2B6A7167FB71FF508B180E1FFBE622B4  TEK=#0  intervalNum=2690452 (2021-02-25T11:40:00-0500) metadata=fake (ver=0, txPower=0) encryptedMeta=ACD73487
+      2021-02-25T12:10:00-0500  RPI=2C5B9D87D2A78EC8A47B0591BBD99701  TEK=#0  intervalNum=2690455 (2021-02-25T12:10:00-0500) metadata=fake (ver=0, txPower=0) encryptedMeta=8C261FCB
+      2021-02-25T12:20:00-0500  RPI=44A73D6F98356A2923A2B3760A309135  TEK=#0  intervalNum=2690456 (2021-02-25T12:20:00-0500) metadata=fake (ver=0, txPower=0) encryptedMeta=5FF8B652
+    Sighting records:
+

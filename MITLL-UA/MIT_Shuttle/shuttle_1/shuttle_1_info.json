@@ -1,0 +1,77 @@
+{
+    "testId": "shuttle_1",
+    "startTime": "2021-03-15T10:18:00-0500",
+    "stopTime": "2021-03-15T11:04:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "10",
+            "exposure": "high"
+        },
+        {
+            "agent": "B",
+            "phone": "02",
+            "exposure": "high"
+        },
+        {
+            "agent": "C",
+            "phone": "18",
+            "exposure": "sick"
+        },
+        {
+            "agent": "D",
+            "phone": "14",
+            "exposure": "high"
+        },
+        {
+            "agent": "E",
+            "phone": "15",
+            "exposure": "high"
+        },
+        {
+            "agent": "F",
+            "phone": "13",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "19",
+            "exposure": "high"
+        },
+        {
+            "agent": "H",
+            "phone": "16",
+            "exposure": "high"
+        },
+        {
+            "agent": "I",
+            "phone": "11",
+            "exposure": "high"
+        },
+        {
+            "agent": "J",
+            "phone": "09",
+            "exposure": "high"
+        },
+        {
+            "agent": "K",
+            "phone": "01",
+            "exposure": "high"
+        },
+        {
+            "agent": "L",
+            "phone": "05",
+            "exposure": "high"
+        },
+        {
+            "agent": "M",
+            "phone": "07",
+            "exposure": "high"
+        },
+        {
+            "agent": "N",
+            "phone": "17",
+            "exposure": "high"
+        }
+    ]
+}

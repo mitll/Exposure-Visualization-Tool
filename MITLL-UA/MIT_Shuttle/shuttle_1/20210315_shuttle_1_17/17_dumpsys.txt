@@ -1,0 +1,14 @@
+Part of the MITLL-UA data series included with Exposure Visualization Tool
+
+This file has been reduced to contain only the relevant data for the software
+
+
+
+    Flags:
+      calibration_confidence = 3
+    Advertisement records:
+
+      2021-03-15T10:10:00-04    RPI=fake    TEK=#0  intervalNum=2693029 (2021-03-15T10:10:00-04)    metadata=fake (ver=0, txPower=3)        encryptedMeta=fake
+
+    Sighting records:
+

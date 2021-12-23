@@ -1,0 +1,84 @@
+{
+    "testId": "large_party_3",
+    "startTime": "2021-03-22T12:51:00-0500",
+    "stopTime": "2021-03-22T13:58:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "17",
+            "exposure": "low",
+			"realExposure": "high"
+        },
+        {
+            "agent": "B",
+            "phone": "16",
+            "exposure": "sick"
+        },
+        {
+            "agent": "C",
+            "phone": "11",
+            "exposure": "high"
+        },
+        {
+            "agent": "D",
+            "phone": "14",
+            "exposure": "high"
+        },
+        {
+            "agent": "E",
+            "phone": "07",
+            "exposure": "high"
+        },
+        {
+            "agent": "F",
+            "phone": "12",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "10",
+            "exposure": "high"
+        },
+        {
+            "agent": "H",
+            "phone": "09",
+            "exposure": "high"
+        },
+        {
+            "agent": "I",
+            "phone": "02",
+            "exposure": "high"
+        },
+        {
+            "agent": "J",
+            "phone": "15",
+            "exposure": "low"
+        },
+        {
+            "agent": "K",
+            "phone": "08",
+            "exposure": "low",
+			"realExposure": "none"
+        },
+        {
+            "agent": "L",
+            "phone": "01",
+            "exposure": "high"
+        },
+        {
+            "agent": "M",
+            "phone": "13",
+            "exposure": "high"
+        },
+        {
+            "agent": "N",
+            "phone": "06",
+            "exposure": "none"
+        },
+        {
+            "agent": "O",
+            "phone": "20",
+            "exposure": "low"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "testId": "large_party_1",
+    "startTime": "2021-03-19T13:09:00-0500",
+    "stopTime": "2021-03-19T14:18:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "14",
+            "exposure": "low"
+        },
+        {
+            "agent": "B",
+            "phone": "17",
+            "exposure": "sick"
+        },
+        {
+            "agent": "C",
+            "phone": "11",
+            "exposure": "high"
+        },
+        {
+            "agent": "D",
+            "phone": "16",
+            "exposure": "low"
+        },
+        {
+            "agent": "E",
+            "phone": "07",
+            "exposure": "low"
+        },
+        {
+            "agent": "F",
+            "phone": "12",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "10",
+            "exposure": "low"
+        },
+        {
+            "agent": "H",
+            "phone": "09",
+            "exposure": "low"
+        },
+        {
+            "agent": "I",
+            "phone": "02",
+            "exposure": "high"
+        },
+        {
+            "agent": "J",
+            "phone": "15",
+            "exposure": "low"
+        },
+        {
+            "agent": "K",
+            "phone": "08",
+            "exposure": "low"
+        },
+        {
+            "agent": "L",
+            "phone": "01",
+            "exposure": "high"
+        },
+        {
+            "agent": "M",
+            "phone": "13",
+            "exposure": "low"
+        },
+        {
+            "agent": "N",
+            "phone": "06",
+            "exposure": "low"
+        },
+        {
+            "agent": "O",
+            "phone": "20",
+            "exposure": "low"
+        }
+    ]
+}

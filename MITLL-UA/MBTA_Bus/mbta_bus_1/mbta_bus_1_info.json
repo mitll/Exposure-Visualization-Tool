@@ -1,0 +1,83 @@
+{
+    "testId": "mbta_bus_1", 
+    "startTime": "2021-03-02T09:08:00-0500", 
+    "stopTime": "2021-03-02T10:01:00-0500",
+    "details": [
+        {
+            "agent": "A", 
+            "phone": "15",
+            "exposure": "high" 
+        }, 
+        {
+            "agent": "B", 
+            "phone": "13", 
+            "exposure": "high" 
+        }, 
+        {
+            "agent": "C", 
+            "phone": "18", 
+            "exposure": "sick" 
+        }, 
+        {
+            "agent": "D", 
+            "phone": "01",
+            "exposure": "high" 
+        }, 
+        {
+            "agent": "E", 
+            "phone": "09", 
+            "exposure": "high" 
+        }, 
+        {
+            "agent": "F", 
+            "phone": "16", 
+            "exposure": "none" 
+        }, 
+        {
+            "agent": "G", 
+            "phone": "08",
+            "exposure": "none" 
+        }, 
+        {
+            "agent": "H", 
+            "phone": "02",
+            "exposure": "none" 
+        }, 
+        {
+            "agent": "I", 
+            "phone": "14",
+            "exposure": "low" 
+        }, 
+        {
+            "agent": "J", 
+            "phone": "04",
+            "exposure": "none" 
+        }, 
+        {
+            "agent": "K", 
+            "phone": "07",
+            "exposure": "none" 
+        }, 
+        {
+            "agent": "L", 
+            "phone": "17",
+            "exposure": "low",
+			"realExposure": "none"
+        }, 
+        {
+            "agent": "M", 
+            "phone": "12",
+            "exposure": "low" 
+        }, 
+        {
+            "agent": "N", 
+            "phone": "10",
+            "exposure": "low" 
+        }, 
+        {
+            "agent": "O", 
+            "phone": "11",
+            "exposure": "high" 
+        }
+    ]
+}

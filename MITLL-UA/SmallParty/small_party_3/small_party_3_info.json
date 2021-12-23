@@ -1,0 +1,49 @@
+{
+    "testId": "small_party_3",
+    "startTime": "2021-03-12T15:11:00-0500",
+    "stopTime": "2021-03-12T16:19:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "05",
+            "exposure": "high",
+			"realExposure": "low"
+        },
+        {
+            "agent": "B",
+            "phone": "20",
+            "exposure": "low",
+			"realExposure": "high"
+        },
+        {
+            "agent": "C",
+            "phone": "11",
+            "exposure": "high"
+        },
+        {
+            "agent": "D",
+            "phone": "07",
+            "exposure": "sick"
+        },
+        {
+            "agent": "E",
+            "phone": "16",
+            "exposure": "high"
+        },
+        {
+            "agent": "F",
+            "phone": "13",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "09",
+            "exposure": "high"
+        },
+        {
+            "agent": "H",
+            "phone": "01",
+            "exposure": "high"
+        }
+    ]
+}

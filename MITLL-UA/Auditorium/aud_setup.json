@@ -1,0 +1,389 @@
+{
+    "title": "Auditorium",
+	"layout": "vertical",
+    "axes": [
+        "x",
+        "y"
+    ],
+    "thresholds": [
+        50,
+        60,
+        70
+    ],
+    "agents": [
+        {
+            "id": "A",
+            "positions": [
+                [
+                    29.7,
+                    1.2,
+                    4.3
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFHP"
+        },
+        {
+            "id": "B",
+            "positions": [
+                [
+                    23.7,
+                    19.4,
+                    3.4
+                ]
+            ],
+            "orientations": [
+                285
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFPP"
+        },
+        {
+            "id": "C",
+            "positions": [
+                [
+                    35.2,
+                    22.9,
+                    3.4
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "D",
+            "positions": [
+                [
+                    48.1,
+                    18.9,
+                    3.4
+                ]
+            ],
+            "orientations": [
+                255
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "RFPP"
+        },
+        {
+            "id": "E",
+            "positions": [
+                [
+                    51.0,
+                    16.8,
+                    3.4
+                ]
+            ],
+            "orientations": [
+                255
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Table"
+        },
+        {
+            "id": "F",
+            "positions": [
+                [
+                    20.8,
+                    22.4,
+                    4.0
+                ]
+            ],
+            "orientations": [
+                285
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "RFPP"
+        },
+        {
+            "id": "G",
+            "positions": [
+                [
+                    26.9,
+                    25.0,
+                    4.0
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Table"
+        },
+        {
+            "id": "H",
+            "positions": [
+                [
+                    45.7,
+                    33.9,
+                    5.8
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "I",
+            "positions": [
+                [
+                    51.8,
+                    31.9,
+                    5.8
+                ]
+            ],
+            "orientations": [
+                255
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Bag (adj)"
+        },
+        {
+            "id": "J",
+            "positions": [
+                [
+                    45.2,
+                    39.5,
+                    6.9
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Table"
+        },
+        {
+            "id": "K",
+            "positions": [
+                [
+                    52.6,
+                    38.4,
+                    6.9
+                ]
+            ],
+            "orientations": [
+                255
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Hand"
+        },
+        {
+            "id": "L",
+            "positions": [
+                [
+                    4.4,
+                    46.8,
+                    9.8
+                ]
+            ],
+            "orientations": [
+                285
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "M",
+            "positions": [
+                [
+                    55.9,
+                    50.6,
+                    9.8
+                ]
+            ],
+            "orientations": [
+                255
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "N",
+            "positions": [
+                [
+                    60.7,
+                    48.3,
+                    9.3
+                ]
+            ],
+            "orientations": [
+                255
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Table"
+        },
+        {
+            "id": "O",
+            "positions": [
+                [
+                    36.6,
+                    61.2,
+                    10.9
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "P",
+            "positions": [
+                [
+                    45.0,
+                    60.5,
+                    10.9
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Bag (adj)"
+        }
+    ],
+    "phones": [
+        {
+            "id": "01",
+            "model": "Galaxy A50 SM-A505U1",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "02",
+            "model": "Galaxy A50",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "03",
+            "model": "Galaxy S5 SM-G900V",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "07",
+            "model": "Galaxy S7 SM-G930V",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "08",
+            "model": "Galaxy S7 SM-G930V",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "09",
+            "model": "Google Pixel 3a",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "10",
+            "model": "Google Pixel 3a",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "11",
+            "model": "Moto e6 XT2005-5",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "12",
+            "model": "Moto e6 XT2005-5",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "13",
+            "model": "Moto g7 XT1962-1",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "14",
+            "model": "Moto g7 XT1962-1",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "15",
+            "model": "Google Pixel 2",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "17",
+            "model": "iPhone 11 Pro",
+            "calconf": "i",
+            "time_offset": 0,
+			"tx": 0
+        },
+        {
+            "id": "18",
+            "model": "iPhone 7",
+            "calconf": "i",
+            "time_offset": 0,
+			"tx": 0
+        },
+        {
+            "id": "19",
+            "model": "iPhone SE",
+            "calconf": "i",
+            "time_offset": 0,
+			"tx": 0
+        },
+        {
+            "id": "20",
+            "model": "iPhone XR",
+            "calconf": "i",
+            "time_offset": 0,
+			"tx": 0
+        }
+    ]
+}

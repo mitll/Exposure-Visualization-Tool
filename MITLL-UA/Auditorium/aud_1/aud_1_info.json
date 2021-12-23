@@ -1,0 +1,88 @@
+{
+    "testId": "aud_1",
+    "startTime": "2021-02-24T09:46:00-0500",
+    "stopTime": "2021-02-24T10:41:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "10",
+            "exposure": "high"
+        },
+        {
+            "agent": "B",
+            "phone": "01",
+            "exposure": "high"
+        },
+        {
+            "agent": "C",
+            "phone": "12",
+            "exposure": "high"
+        },
+        {
+            "agent": "D",
+            "phone": "09",
+            "exposure": "high"
+        },
+        {
+            "agent": "E",
+            "phone": "03",
+            "exposure": "high"
+        },
+        {
+            "agent": "F",
+            "phone": "13",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "19",
+            "exposure": "sick"
+        },
+        {
+            "agent": "H",
+            "phone": "08",
+            "exposure": "low"
+        },
+        {
+            "agent": "I",
+            "phone": "17",
+            "exposure": "high"
+        },
+        {
+            "agent": "J",
+            "phone": "11",
+            "exposure": "low"
+        },
+        {
+            "agent": "K",
+            "phone": "15",
+            "exposure": "low"
+        },
+        {
+            "agent": "L",
+            "phone": "20",
+            "exposure": "low"
+        },
+        {
+            "agent": "M",
+            "phone": "02",
+            "exposure": "high"
+        },
+        {
+            "agent": "N",
+            "phone": "14",
+            "exposure": "high"
+        },
+        {
+            "agent": "O",
+            "phone": "18",
+            "exposure": "low",
+			"realExposure": "none"
+        },
+        {
+            "agent": "P",
+            "phone": "07",
+            "exposure": "high"
+        }
+    ]
+}

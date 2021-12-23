@@ -1,0 +1,74 @@
+{
+    "testId": "small_hall_2",
+    "startTime": "2021-02-23T13:23:00-0500",
+    "stopTime": "2021-02-23T14:15:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "09",
+            "exposure": "sick"
+        },
+        {
+            "agent": "B",
+            "phone": "14",
+            "exposure": "high"
+        },
+        {
+            "agent": "C",
+            "phone": "02",
+            "exposure": "high"
+        },
+        {
+            "agent": "D",
+            "phone": "19",
+            "exposure": "low",
+			"realExposure": "high"
+        },
+        {
+            "agent": "E",
+            "phone": "10",
+            "exposure": "high"
+        },
+        {
+            "agent": "F",
+            "phone": "11",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "07",
+            "exposure": "high"
+        },
+        {
+            "agent": "H",
+            "phone": "05",
+            "exposure": "none"
+        },
+        {
+            "agent": "I",
+            "phone": "13",
+            "exposure": "low"
+        },
+        {
+            "agent": "J",
+            "phone": "15",
+            "exposure": "high"
+        },
+        {
+            "agent": "K",
+            "phone": "17",
+            "exposure": "low",
+			"realExposure": "high"
+        },
+        {
+            "agent": "L",
+            "phone": "08",
+            "exposure": "low"
+        },
+        {
+            "agent": "M",
+            "phone": "01",
+            "exposure": "low"
+        }
+    ]
+}

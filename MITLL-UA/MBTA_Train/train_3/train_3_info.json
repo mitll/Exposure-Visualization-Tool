@@ -1,0 +1,82 @@
+{
+    "testId": "train_3",
+    "startTime": "2021-03-01T13:52:00-0500",
+    "stopTime": "2021-03-01T14:28:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "18",
+            "exposure": "low"
+        },
+        {
+            "agent": "B",
+            "phone": "11",
+            "exposure": "high"
+        },
+        {
+            "agent": "C",
+            "phone": "13",
+            "exposure": "sick"
+        },
+        {
+            "agent": "D",
+            "phone": "05",
+            "exposure": "high"
+        },
+        {
+            "agent": "E",
+            "phone": "09",
+            "exposure": "none"
+        },
+        {
+            "agent": "F",
+            "phone": "16",
+            "exposure": "low"
+        },
+        {
+            "agent": "G",
+            "phone": "08",
+            "exposure": "low"
+        },
+        {
+            "agent": "H",
+            "phone": "02",
+            "exposure": "high"
+        },
+        {
+            "agent": "I",
+            "phone": "14",
+            "exposure": "high"
+        },
+        {
+            "agent": "J",
+            "phone": "07",
+            "exposure": "none"
+        },
+        {
+            "agent": "K",
+            "phone": "17",
+            "exposure": "low"
+        },
+        {
+            "agent": "L",
+            "phone": "01",
+            "exposure": "high"
+        },
+        {
+            "agent": "M",
+            "phone": "12",
+            "exposure": "low"
+        },
+        {
+            "agent": "N",
+            "phone": "10",
+            "exposure": "low"
+        },
+        {
+            "agent": "O",
+            "phone": "15",
+            "exposure": "high"
+        }
+    ]
+}

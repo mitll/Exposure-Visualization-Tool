@@ -1,0 +1,83 @@
+{
+    "testId": "train_2",
+    "startTime": "2021-03-01T11:27:00-0500",
+    "stopTime": "2021-03-01T12:03:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "13",
+            "exposure": "high"
+        },
+        {
+            "agent": "B",
+            "phone": "18",
+            "exposure": "low",
+			"realExposure": "high"
+        },
+        {
+            "agent": "C",
+            "phone": "11",
+            "exposure": "sick"
+        },
+        {
+            "agent": "D",
+            "phone": "05",
+            "exposure": "high"
+        },
+        {
+            "agent": "E",
+            "phone": "09",
+            "exposure": "high"
+        },
+        {
+            "agent": "F",
+            "phone": "16",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "08",
+            "exposure": "high"
+        },
+        {
+            "agent": "H",
+            "phone": "02",
+            "exposure": "high"
+        },
+        {
+            "agent": "I",
+            "phone": "14",
+            "exposure": "high"
+        },
+        {
+            "agent": "J",
+            "phone": "07",
+            "exposure": "low"
+        },
+        {
+            "agent": "K",
+            "phone": "17",
+            "exposure": "low"
+        },
+        {
+            "agent": "L",
+            "phone": "01",
+            "exposure": "high"
+        },
+        {
+            "agent": "M",
+            "phone": "12",
+            "exposure": "low"
+        },
+        {
+            "agent": "N",
+            "phone": "10",
+            "exposure": "low"
+        },
+        {
+            "agent": "O",
+            "phone": "15",
+            "exposure": "high"
+        }
+    ]
+}

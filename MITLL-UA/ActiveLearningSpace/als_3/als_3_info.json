@@ -1,0 +1,53 @@
+{
+    "testId": "als_3",
+    "startTime": "2021-02-26T12:44:00-0500",
+    "stopTime": "2021-02-26T13:43:00-0500",
+    "details": [
+        {
+            "agent": "A",
+            "phone": "01",
+            "exposure": "sick"
+        },
+        {
+            "agent": "B",
+            "phone": "09",
+            "exposure": "high"
+        },
+        {
+            "agent": "E",
+            "phone": "08",
+            "exposure": "high"
+        },
+        {
+            "agent": "F",
+            "phone": "12",
+            "exposure": "high"
+        },
+        {
+            "agent": "G",
+            "phone": "17",
+            "exposure": "low"
+        },
+        {
+            "agent": "H",
+            "phone": "13",
+            "exposure": "high"
+        },
+        {
+            "agent": "K",
+            "phone": "15",
+            "exposure": "high"
+        },
+        {
+            "agent": "L",
+            "phone": "10",
+            "exposure": "none"
+        },
+        {
+            "agent": "M",
+            "phone": "18",
+            "exposure": "low",
+			"realExposure": "none"
+        }
+    ]
+}

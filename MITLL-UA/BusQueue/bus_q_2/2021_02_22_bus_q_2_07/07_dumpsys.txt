@@ -1,0 +1,36 @@
+Part of the MITLL-UA data series included with Exposure Visualization Tool
+
+This file has been reduced to contain only the relevant data for the software
+
+
+
+    Flags:
+      rssi_offset = 9
+      tx_calibration_power = -32
+      calibration_confidence = 3
+    Advertisement records:
+      2021-02-22T11:39:22-05	RPI=FF9F21EA9EA9ED6420385FA29B2583E7	TEK=#0	intervalNum=2690019 (2021-02-22T11:30:00-05)	metadata=5CE00000 (ver=92, txPower=-32)	encryptedMeta=56FB0C53
+      2021-02-22T11:51:03-05	RPI=D9C643A6A4E33529ADB3C20DD93F3B7D	TEK=#0	intervalNum=2690021 (2021-02-22T11:50:00-05)	metadata=5CE00000 (ver=92, txPower=-32)	encryptedMeta=FE0F2AC4
+      2021-02-22T12:02:46-05	RPI=EDB14D51CAB7E6C85E1B5AF6E3FA86DE	TEK=#0	intervalNum=2690022 (2021-02-22T12:00:00-05)	metadata=5CE00000 (ver=92, txPower=-32)	encryptedMeta=FEC5C0BB
+      2021-02-22T12:18:57-05	RPI=FD5BFF00C341729E05E46CA0847B161B	TEK=#0	intervalNum=2690023 (2021-02-22T12:10:00-05)	metadata=5CE00000 (ver=92, txPower=-32)	encryptedMeta=6ABFFC65
+    Sighting records:
+      RPI=B41A4E35D44F969CA7A800DB2779AFC4	encryptedMetadata=1EC62E57
+        2021-02-22T11:39:19-05 (4s) rssi=[-48, -46, -55, -54, -62, -60, -56, -56, -72, -74, -67, -71, -65, -61, -61]
+        2021-02-22T11:43:21-05 (2s) rssi=[-58, -59, -58, -58, -58, -58, -58, -58]
+        2021-02-22T11:47:01-05 (0s) rssi=[-58]
+        2021-02-22T11:51:01-05 (4s) rssi=[-59, -58, -58, -58, -59, -59, -58, -58, -58, -58, -58, -59]
+      RPI=CFB7C9E68555C7D71190769F65CFE64F	encryptedMetadata=1A2C81CF
+        2021-02-22T11:47:01-05 (0s) rssi=[-84]
+        2021-02-22T11:51:02-05 (3s) rssi=[-84, -86, -85, -86, -86, -86, -86, -86, -85, -86]
+      RPI=86B8910C24A6415DFCCEBBA999461BF8	encryptedMetadata=FFC840E4
+        2021-02-22T11:51:02-05 (2s) rssi=[-87, -88, -87, -87, -88]
+        2021-02-22T11:58:43-05 (3s) rssi=[-85, -84, -91]
+        2021-02-22T12:02:47-05 (0s) rssi=[-92]
+      RPI=2EA22A2EBCADA0753FBE552BFE50DC04	encryptedMetadata=8E1A788C
+        2021-02-22T11:58:42-05 (4s) rssi=[-78, -75, -77, -77, -77, -78, -76, -77, -77, -78, -79, -76, -78, -58]
+        2021-02-22T12:02:45-05 (3s) rssi=[-79, -80, -58, -58, -58, -58, -59, -59, -58, -58]
+        2021-02-22T12:07:05-05 (4s) rssi=[-81, -78, -59, -58, -58, -59, -58, -58, -58, -59, -58]
+      RPI=682F081FA9FDB53B3E5EDB72A6CF9B49	encryptedMetadata=CD3BA882
+        2021-02-22T12:02:46-05 (2s) rssi=[-84, -84, -84, -84, -84]
+      RPI=7D40C0E8374078BE9C53BCD829C9FCE9	encryptedMetadata=17755209
+        2021-02-22T12:07:06-05 (3s) rssi=[-84, -85, -85, -84, -85, -84, -84, -84]

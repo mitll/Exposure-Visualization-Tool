@@ -1,0 +1,396 @@
+{
+    "title": "MBTA Train",
+	"layout": "horizontal",
+    "axes": [
+        "-y",
+        "x"
+    ],
+    "thresholds": [
+        50,
+        60,
+        70
+    ],
+    "agents": [
+        {
+            "id": "A",
+            "positions": [
+				[],
+                [
+                    6.9,
+                    5.2,
+                    1.7
+                ],
+				[]
+            ],
+            "orientations": [
+                270,
+				270,
+				270
+            ],
+            "transition_mins": [
+                0,
+				13,
+				28
+            ],
+            "phone_situation": "HP"
+        },
+        {
+            "id": "B",
+            "positions": [
+                [
+                    4.8,
+                    6.9,
+                    1.7
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "C",
+            "positions": [
+                [
+                    6.9,
+                    8.3,
+                    1.7
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Bag (adj)",
+			"phone_positions": [
+                [
+                    6.9,
+                    9.9,
+                    1.7
+                ]
+            ]
+        },
+        {
+            "id": "D",
+            "positions": [
+                [
+                    1.4,
+                    23.6,
+                    0.0
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "E",
+            "positions": [
+                [
+                    0.8,
+                    31.7,
+                    0.0
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFPP"
+        },
+        {
+            "id": "F",
+            "positions": [
+                [
+                    0.8,
+                    33.1,
+                    0.0
+                ]
+            ],
+            "orientations": [
+            	90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "Bag (adj)",
+			"phone_positions": [
+                [
+                    2.0,
+                    33.0,
+                    0.0
+                ]
+            ]
+        },
+        {
+            "id": "G",
+            "positions": [
+                [
+                    0.8,
+                    34.7,
+                    0.0
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "H",
+            "positions": [
+                [
+                    1.3,
+                    42.1,
+                    0.0
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFPP"
+        },
+        {
+            "id": "I",
+            "positions": [
+                [
+                    1.3,
+                    43.5,
+                    0.0
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "J",
+            "positions": [
+                [
+                    7.1,
+                    59.3,
+                    1.7
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        },
+        {
+            "id": "K",
+            "positions": [
+                [
+                    4.7,
+                    60.4,
+                    1.7
+                ]
+            ],
+            "orientations": [
+                90
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LIJP"
+        },
+        {
+            "id": "L",
+            "positions": [
+                [
+                    7.1,
+                    61.3,
+                    1.7
+                ]
+            ],
+            "orientations": [
+                270
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFPP"
+        },
+        {
+            "id": "M",
+            "positions": [
+				[],
+                [
+                    0.8,
+                    50.7,
+                    0.0
+                ],
+				[]
+            ],
+            "orientations": [
+                0,
+				0,
+				0
+            ],
+            "transition_mins": [
+                0,
+				13,
+				28
+            ],
+            "phone_situation": "LFPP"
+        },
+        {
+            "id": "N",
+            "positions": [
+				[],
+                [
+                    7.0,
+                    24.1,
+                    0.0
+                ],
+				[]
+            ],
+            "orientations": [
+                270,
+				270,
+				270
+            ],
+            "transition_mins": [
+                0,
+				13,
+				28
+            ],
+            "phone_situation": "RFPP"
+        },
+        {
+            "id": "O",
+            "positions": [
+                [
+                    5.0,
+                    1.3,
+                    1.7
+                ]
+            ],
+            "orientations": [
+                0
+            ],
+            "transition_mins": [
+                0
+            ],
+            "phone_situation": "LFSP"
+        }
+    ],
+    "phones": [
+        {
+            "id": "01",
+            "model": "Galaxy A50 SM-A505U1",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "02",
+            "model": "Galaxy A50",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "05",
+            "model": "Galaxy S6 SM-G920V",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "07",
+            "model": "Galaxy S7 SM-G930V",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "08",
+            "model": "Galaxy S7 SM-G930V",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "09",
+            "model": "Google Pixel 3a",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "10",
+            "model": "Google Pixel 3a",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "11",
+            "model": "Moto e6 XT2005-5",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "12",
+            "model": "Moto e6 XT2005-5",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "13",
+            "model": "Moto g7 XT1962-1",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "14",
+            "model": "Moto g7 XT1962-1",
+            "calconf": "3",
+            "time_offset": 0
+        },
+        {
+            "id": "15",
+            "model": "Google Pixel 2",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "16",
+            "model": "Google Pixel 2",
+            "calconf": "1",
+            "time_offset": 0
+        },
+        {
+            "id": "17",
+            "model": "iPhone 11 Pro",
+            "calconf": "i",
+            "time_offset": 0,
+			"tx": 0
+        },
+        {
+            "id": "18",
+            "model": "iPhone 7",
+            "calconf": "i",
+            "time_offset": 0,
+			"tx": 0
+        }
+    ]
+}
