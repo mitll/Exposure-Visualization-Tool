@@ -3,4 +3,4 @@ SPDXVersion: SPDX-3.14
     PackageOriginator: MIT Lincoln Laboratory
     PackageCopyrightText: 2021 Massachusetts Institute of Technology
     PackageHomePage: https://github.com/mitll/
-    PackageLicenseDeclared: GPL-2.0-or-later
+    PackageLicenseDeclared: GPL-2.0-only
