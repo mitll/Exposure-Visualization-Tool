@@ -136,7 +136,7 @@ Install the appropriate versions of [matplotlib](https://matplotlib.org/stable/u
 
 Please use this DOI number reference, published on Zenodo, when citing the software:
 
-[![Generic badge](https://img.shields.io/badge/DOI-TBR-red)](https://shields.io/)
+[![DOI](https://zenodo.org/badge/441285798.svg)](https://zenodo.org/badge/latestdoi/441285798)
 
 For questions and assistance, please contact Steven Mazzola at Steven.Mazzola@ll.mit.edu
 
